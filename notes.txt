@@ -1,0 +1,13 @@
+*** NOTES TAKEN ON FULL STACK REACT COURSE FROM https://fullstackopen.com/en/about ***
+
+** PART 0 **
+* A - General Info*
+- No notes needed. Just intro stuff
+* B - Fundamentals of Web Apps*
+    - Network tab of developer console shows network requests.
+        - Really nice tool for analyzing the responses and requests.
+        - Tells browser how to render info to the screen
+    - Server and web browser communicate via HTTP protocol
+    - In traditional web apps, browser would request HTML from server and all application logic is on the server.
+        - Apps would also make all new requests (html, css, javascript) each time a DOM element changed dynamically.
+    - In modern SPA's only one request is sent to server
